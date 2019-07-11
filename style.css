@@ -1,0 +1,14 @@
+/*
+Theme Name: Elementor Start Theme
+Author: Higor Christian
+Description: Start theme elementor
+Version: 1.0
+Text Domain: est
+*/
+
+*, 
+body, 
+html{
+    margin: 0;
+    padding: 0;
+}
